@@ -161,3 +161,4 @@ submitScoreEl.addEventListener("click", function() {
     }
     
 } );
+
